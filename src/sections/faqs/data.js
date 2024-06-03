@@ -1,34 +1,34 @@
 const data = [
-    {
-      id: 1,
-      question: "What do you need to start working on my project?",
-      answer: "It mostly depends on the type of project. But in general, you need a fair idea of what you want, then we can take it from there."
-    },
-    {
-      id: 2,
-      question: "How long will my project take to complete?",
-      answer: "This depends on the complexity of the project, your available, and your payment. Once you have this sorted out, I will give you a completion date."
-    },
-    {
-      id: 5,
-      question: "Is hosting and domain registration inclusive in your pricing?",
-      answer: "No! Hosting and domain is taken care of seperately. You can pay for it or take care of it on your own if you know how to."
-    },
-    {
-      id: 4,
-      question: "How much do you charge for an average website or app?",
-      answer: "Once again, this depends. But my prices are affordable so you're good."
-    },
-    {
-      id: 3,
-      question: "What's your payment plan?",
-      answer: "Payment is divided into 3. An initial 30% upfront payment to get me started once all the details of the projec is set, 40% once the project is completed, and 30% once the project is delivered."
-    },
-    {
-      id: 6,
-      question: "What if the project doesn't turn out good?",
-      answer: "You will be a part of the process from the start. You will know how the whole project is going until the end. And I will make sure to give you the best."
-    }
-  ]
+  {
+    "id": 1,
+    "question": "What skills and experience will you bring as an intern?",
+    "answer": "As a student nearing the end of my degree, I bring a strong foundation in web development and a passion for learning. While I haven't completed my internship yet, I am eager to apply my theoretical knowledge to real-world projects and gain practical experience."
+  },
+  {
+    "id": 2,
+    "question": "How will you approach projects during your internship?",
+    "answer": "During my internship, I plan to approach projects with enthusiasm and a willingness to learn. I will seek to understand the client's needs and goals, and I am committed to delivering high-quality work that exceeds expectations."
+  },
+  {
+    "id": 3,
+    "question": "Can I see examples of your previous work?",
+    "answer": "Currently, I am almost in the final stage of my degree and have not yet started my internship. However, I have worked on various projects as part of my coursework, and I am eager to showcase my skills and abilities through my internship projects."
+  },
+  {
+    "id": 4,
+    "question": "How do you plan to handle challenges and setbacks during your internship?",
+    "answer": "During my internship, I will approach challenges as opportunities for growth and learning. I will maintain a positive attitude and a proactive mindset, seeking guidance from mentors and peers to overcome obstacles and achieve project success."
+  },
+  {
+    "id": 5,
+    "question": "What are your career goals and aspirations as a student intern?",
+    "answer": "As a student intern, my goal is to gain valuable experience and develop my skills in web development. I am committed to learning and growing in the field, and I aspire to pursue a rewarding career where I can make a meaningful impact through technology."
+  },
+  {
+    "id": 6,
+    "question": "Do you work for free during your internship?",
+    "answer": "Yes, as part of my degree program, I will undertake a six-month internship where I will work without monetary compensation. My primary focus during this period will be on learning and gaining practical experience."
+  }
+]
 
   export default data
