@@ -5,6 +5,11 @@ import Avatar4 from '../../icons/icons8-js-40.png';
 import Avatar5 from '../../icons/icons8-typescript-40.png';
 import Avatar6 from '../../icons/icons8-tailwind-css-40.png';
 import Avatar7 from '../../icons/icons8-bootstrap-40.png';
+import Avatar8 from '../../icons/icons8-node-js-40.png';
+import Avatar9 from '../../icons/icons8-express-js-40.png';
+import Avatar10 from '../../icons/icons8-postgresql-40.png';
+import Avatar11 from '../../icons/icons8-mysql-40.png';
+import Avatar12 from '../../icons/icons8-mongodb-40.png';
 
 const data = [
   {
@@ -55,6 +60,41 @@ const data = [
     avatar: Avatar7,
     name: 'Bootstrap',
     profession: '80%'
+  },
+  {
+    id: 8,
+    quote: "Node.js enables me to build scalable server-side applications with JavaScript.",
+    avatar: Avatar8,
+    name: 'Node.js',
+    profession: '75%'
+  },
+  {
+    id: 9,
+    quote: "Express.js is my framework of choice for building robust APIs and web applications.",
+    avatar: Avatar9,
+    name: 'Express.js',
+    profession: '78%'
+  },
+  {
+    id: 10,
+    quote: "PostgreSQL is my preferred relational database management system for data integrity and performance.",
+    avatar: Avatar10,
+    name: 'PostgreSQL',
+    profession: '80%'
+  },
+  {
+    id: 11,
+    quote: "MySQL is a reliable choice for relational database management, ensuring scalability and efficiency.",
+    avatar: Avatar11,
+    name: 'MySQL',
+    profession: '75%'
+  },
+  {
+    id: 12,
+    quote: "MongoDB's flexibility and scalability make it ideal for handling diverse data types in modern applications.",
+    avatar: Avatar12,
+    name: 'MongoDB',
+    profession: '72%'
   }
 ];
 
