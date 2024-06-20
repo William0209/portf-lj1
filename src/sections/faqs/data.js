@@ -12,7 +12,7 @@ const data = [
   {
     "id": 3,
     "question": "Can I see examples of your previous work?",
-    "answer": "Currently, I am almost in the final stage of my degree and have not yet started my internship. However, I have worked on various projects as part of my coursework, and I am eager to showcase my skills and abilities through my internship projects."
+    "answer": "While I haven't yet published any projects, I have several that are finished and ready for deployment. They will be deployed shortly, and I'm excited to showcase them soon."
   },
   {
     "id": 4,
