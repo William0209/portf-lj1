@@ -31,7 +31,7 @@ const About = () => {
                 Hi, I'm William Janssen, a web development student.
                 </p>
                 <p>
-                Welcome to my portfolio! I'm William Janssen, a passionate Fullstack Developer. Explore my projects and journey as i master  the art of creating dynamic and innovative wb applications
+                Welcome to my portfolio! I'm William Janssen, a passionate Fullstack Developer. Explore my projects and journey as i master  the art of creating dynamic and innovative web applications
                 </p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
