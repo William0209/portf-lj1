@@ -38,12 +38,11 @@ const Portfolio = () => {
       </h2>
       <p>
         Explore some of the projects
-        I've recently completed. Please
-        note that the projects below are
-        placeholders and will soon be
-        replaced with real examples. Use
-        the buttons to navigate through
-        different categories.
+        I've recently completed. Use the
+        buttons to navigate through
+        different categories. Images for
+        each project will soon be
+        uploaded.
       </p>
       <div className="container portfolio__container">
         <ProjectsCategories

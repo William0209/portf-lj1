@@ -3,7 +3,7 @@ const data = [
     id: 1,
     category: "uiux",
     title:
-      "Working on a  simple UI/UX project",
+      "Working on a simple UI/UX project, will be displayed soon",
     desc: "A simple UI/UX project that I am currently working on. It will be a clean and minimal design with smooth animations.",
     demo: "#",
     github: "#",
