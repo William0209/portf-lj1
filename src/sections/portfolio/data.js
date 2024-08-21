@@ -53,9 +53,10 @@ const data = [
     category: "backend",
     title:
       "Soon deploying my first big MERN STACK project",
-    desc: "Tourguide website, keep an eye out for it!",
+    desc: "Tourguide website, keep an eye out for it! Feel free to checkout the repo on github.",
     demo: "#",
-    github: "#",
+    github:
+      "https://github.com/William0209/EXP",
   },
 ];
 
