@@ -1,62 +1,51 @@
 const data = [
   {
     id: 1,
-    category: "uiux",
-    title:
-      "Working on a simple UI/UX project, will be displayed soon",
-    desc: "A simple UI/UX project that I am currently working on. It will be a clean and minimal design with smooth animations.",
-    demo: "#",
-    github: "#",
+    category: "backend",
+    title: "WJ Smoothie, node, mongoDB, express with JWT authentication",
+    desc: "A simple yet fantastic project when learning more about backend as well as front and back communication.",
+    demo: "https://mern-hcun.onrender.com",
+    github: "https://github.com/William0209/MERN",
   },
   {
     id: 2,
     category: "frontend",
-    title:
-      "Furniture Website (Frontend)",
+    title: "Furniture Website (Frontend)",
     desc: "A furniture website built using HTML, CSS, and JavaScript. It has a clean and minimal but responsive design with smooth animations.",
     demo: "https://william0209.github.io/furniture1/",
-    github:
-      "https://github.com/William0209/furniture1",
+    github: "https://github.com/William0209/furniture1",
   },
   {
     id: 3,
     category: "frontend",
-    title:
-      "Portfolio website (Frontend)",
+    title: "Portfolio website (Frontend)",
     desc: "Simple and responsive portfolio website using HTML, CSS, and JavaScript.",
     demo: "https://william0209.github.io/front-portf/",
-    github:
-      "https://github.com/William0209/front-portf",
+    github: "https://github.com/William0209/front-portf",
   },
   {
     id: 4,
     category: "frontend",
-    title:
-      "Interior Designer Wenbsite (Frontend)",
+    title: "Interior Designer Wenbsite (Frontend)",
     desc: "A responsive interior website built using HTML, CSS, and JavaScript. It has a clean and minimal design with smooth animations.",
     demo: "https://william0209.github.io/InteriorDesign-FRONT/",
-    github:
-      "https://github.com/William0209/InteriorDesign-FRONT",
+    github: "https://github.com/William0209/InteriorDesign-FRONT",
   },
   {
     id: 5,
     category: "frontend",
-    title:
-      "Coffee Shop Website (Frontend)",
+    title: "Coffee Shop Website (Frontend)",
     desc: "Vibrant and responsive coffee shop website built using HTML, CSS, and JavaScript.",
     demo: "https://william0209.github.io/coffee-FRONT/",
-    github:
-      "https://github.com/William0209/coffee-FRONT",
+    github: "https://github.com/William0209/coffee-FRONT",
   },
   {
     id: 6,
     category: "backend",
-    title:
-      "Soon deploying my first big MERN STACK project",
+    title: "Soon deploying my first big MERN STACK project",
     desc: "Tourguide website, keep an eye out for it! Feel free to checkout the repo on github.",
     demo: "#",
-    github:
-      "https://github.com/William0209/EXP",
+    github: "https://github.com/William0209/EXP",
   },
 ];
 
