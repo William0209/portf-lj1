@@ -41,17 +41,9 @@ const data = [
   },
   {
     id: 6,
-    category: "backend",
-    title: "Soon deploying my first big MERN STACK project",
-    desc: "Tourguide website, keep an eye out for it! Feel free to checkout the repo on github.",
-    demo: "#",
-    github: "https://github.com/William0209/EXP",
-  },
-  {
-    id: 7,
     category: "frontend",
     title: "Anime website",
-    desc: " First next.js project, which i built alongside a crashcourse including next 14 and TS. Feel free to checkout the repo on github.",
+    desc: " First next.js project which I built alongside a crashcourse, including next 14 and TS.",
     demo: "https://wjanime.netlify.app/",
     github: "https://github.com/William0209/anime_project",
   },
