@@ -47,6 +47,14 @@ const data = [
     demo: "#",
     github: "https://github.com/William0209/EXP",
   },
+  {
+    id: 7,
+    category: "frontend",
+    title: "Anime website",
+    desc: " First next.js project, which i built alongside a crashcourse including next 14 and TS. Feel free to checkout the repo on github.",
+    demo: "https://wjanime.netlify.app/",
+    github: "https://github.com/William0209/anime_project",
+  },
 ];
 
 // {
