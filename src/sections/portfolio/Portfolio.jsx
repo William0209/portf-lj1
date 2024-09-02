@@ -40,9 +40,7 @@ const Portfolio = () => {
         Explore some of the projects
         I've recently completed. Use the
         buttons to navigate through
-        different categories. Images for
-        each project will soon be
-        uploaded.
+        different categories.
       </p>
       <div className="container portfolio__container">
         <ProjectsCategories

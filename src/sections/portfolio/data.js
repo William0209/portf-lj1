@@ -1,24 +1,35 @@
+import Image1 from '../../assets/project1.jpg'
+import Image2 from '../../assets/project2.jpg'
+import Image3 from '../../assets/project3.jpg'
+import Image4 from '../../assets/project4.jpg'
+import Image5 from '../../assets/project5.jpg'
+import Image6 from '../../assets/project6.jpg'
+
+
 const data = [
   {
     id: 1,
     category: "backend",
-    title: "WJ Smoothie, node, mongoDB, express with JWT authentication",
-    desc: "A simple yet fantastic project when learning more about backend as well as front and back communication.",
+    image: Image1,
+    title: "WJ Smoothie",
+    desc: "A simple yet fantastic project when learning more about backend and JWT",
     demo: "https://mern-hcun.onrender.com",
     github: "https://github.com/William0209/MERN",
   },
   {
     id: 2,
     category: "frontend",
-    title: "Furniture Website (Frontend)",
-    desc: "A furniture website built using HTML, CSS, and JavaScript. It has a clean and minimal but responsive design with smooth animations.",
+    image: Image2,
+    title: "Furniture Website",
+    desc: "A furniture website with clean and minimal design with smooth animations.",
     demo: "https://william0209.github.io/furniture1/",
     github: "https://github.com/William0209/furniture1",
   },
   {
     id: 3,
     category: "frontend",
-    title: "Portfolio website (Frontend)",
+    image: Image3,
+    title: "Portfolio website",
     desc: "Simple and responsive portfolio website using HTML, CSS, and JavaScript.",
     demo: "https://william0209.github.io/front-portf/",
     github: "https://github.com/William0209/front-portf",
@@ -26,22 +37,25 @@ const data = [
   {
     id: 4,
     category: "frontend",
-    title: "Interior Designer Wenbsite (Frontend)",
-    desc: "A responsive interior website built using HTML, CSS, and JavaScript. It has a clean and minimal design with smooth animations.",
+    image: Image4,
+    title: "Interior Designer Website",
+    desc: "Interior website with clean and minimal design and smooth animations.",
     demo: "https://william0209.github.io/InteriorDesign-FRONT/",
     github: "https://github.com/William0209/InteriorDesign-FRONT",
   },
   {
     id: 5,
     category: "frontend",
-    title: "Coffee Shop Website (Frontend)",
-    desc: "Vibrant and responsive coffee shop website built using HTML, CSS, and JavaScript.",
+    image: Image5,
+    title: "Coffee Shop Website",
+    desc: "Vibrant and responsive coffee shop website with a warm and inviting design",
     demo: "https://william0209.github.io/coffee-FRONT/",
     github: "https://github.com/William0209/coffee-FRONT",
   },
   {
     id: 6,
     category: "frontend",
+    image: Image6,
     title: "Anime website",
     desc: " First next.js project which I built alongside a crashcourse, including next 14 and TS.",
     demo: "https://wjanime.netlify.app/",
@@ -49,20 +63,4 @@ const data = [
   },
 ];
 
-// {
-//   id: 4,
-//   category: "uiux",
-//   title: "Project Title Four (UIUX)",
-//   desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-//   demo: "#",
-//   github: "#",
-// },
-// {
-//   id: 5,
-//   category: "uiux",
-//   title: "Project Title Five (UIUX)",
-//   desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-//   demo: "#",
-//   github: "#",
-// },
 export default data;
